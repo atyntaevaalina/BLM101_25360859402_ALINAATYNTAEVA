@@ -15,7 +15,7 @@ Bu proje, **Bursa Teknik Üniversitesi** Bilgisayar Mühendisliği Bölümü, BL
 ## 🎥 Proje Sunum Videosu
 Projenin çalışmasını ve kodların anlatımını içeren YouTube videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-👉 **[YOUTUBE LİNK]** 👈
+👉 **[https://www.youtube.com/watch?v=oIOTYKnvIu8](https://www.youtube.com/watch?v=oIOTYKnvIu8)** 👈
 
 ---
 
